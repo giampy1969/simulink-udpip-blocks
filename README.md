@@ -1,6 +1,8 @@
 # simulink-udpip-blocks
 Simulink&reg blocks for UDP/IP communication
 
+[![View udpip on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/12021-udpip)
+
   These two blocks allow exchanging data bytes via an UDP/IP connection 
   between simulink schemes possibly running as different processes on 
   different (windows) machines.
